@@ -13,5 +13,5 @@ Sample URLs and corresponding files loaded shown below:
 * 'example.com/page2/a': content/page2/a.md
 
 ## Styling
-Groot CMS comes with no bootstrap, angular, material design, framework, twig, leaf, burger, bells, whistles, whatever.
+Groot CMS comes with no bootstrap, angular, material design, framework, twig, leaf, bells, whistles, infinity stones, whatever.
 index.php is your template page. Use plain HTML, CSS, JavaScript, whatever you'd like to do the styling. The php include statement you see in the index.php file inserts the rendered content at that position. Thats it
